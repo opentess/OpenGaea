@@ -1,0 +1,5 @@
+{
+  "ecl.launchConfiguration": "custom",
+  "ecl.targetCluster": {},
+  "ecl.eclccPath": "/opt/HPCCSystems/8.10.10/clienttools/bin/eclcc"
+}
